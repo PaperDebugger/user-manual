@@ -104,18 +104,18 @@ Once you create a project, you can create multiple revisions to utilize our serv
 We highly value your feedback and offer incentives for your contributions:
 
 - **Submit Feedback Within 72 Hours:** Provide your feedback within 72 hours of receiving our review.
-- **Earn Additional Credits:** Upon verifying the value of your feedback, you will receive an additional **5 credits**.
+- **Earn Additional Credits:** Upon verifying your valuable feedback, you will receive additional **5 credits**.
 
 To submit your feedback:
 
-- Click on **"Provide Feedback"** in your project dashboard.
+- Click on **"Feedback"** from the top menu bar.
 - Complete the feedback form detailing your experience.
+
+    ![Feedback](assets/user_manual/feedback.jpg)
 
 ## Support
 
-For any questions or assistance, please contact us:
-
-- **Email:** [paperdebugger@gmail.com](mailto:paperdebugger@gmail.com)
+For any questions or assistance, please contact us at [paperdebugger@gmail.com](mailto:paperdebugger@gmail.com).
 
 ---
 
