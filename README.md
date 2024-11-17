@@ -111,13 +111,11 @@ To submit your feedback:
 - Click on **"Provide Feedback"** in your project dashboard.
 - Complete the feedback form detailing your experience.
 
-   ![??????????Feedback Form](#)
-
 ## Support
 
 For any questions or assistance, please contact us:
 
-- **Email:** [?????????support@paperdebugger.com](mailto:support@paperdebugger.com)
+- **Email:** [paperdebugger@gmail.com](mailto:paperdebugger@gmail.com)
 
 ---
 
