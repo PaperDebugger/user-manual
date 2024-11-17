@@ -1,4 +1,4 @@
-# user-manual
+# User Manual
 
 Welcome to **Paper Debugger**, your comprehensive solution for academic paper review and language polishing. This user manual provides detailed instructions on how to utilize our platform's features and get started efficiently.
 
